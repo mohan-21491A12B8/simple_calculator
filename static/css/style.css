@@ -58,3 +58,13 @@
     font-size: 30px;
     margin: 0% 0% 5% 30%;
 }
+
+
+/* optional covered in above input and button tags  */
+
+/* .login-div input:focus{
+    background-color: rgb(73, 151, 125);
+}
+.login-div button:hover{
+    box-shadow: 10px 10px 10px black;
+} */
