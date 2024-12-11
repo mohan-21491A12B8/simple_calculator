@@ -1,32 +1,32 @@
-.op-div h1{
+.first-div{
+    float: left;
+    width: 50%;
+    background-color: antiquewhite;
+    margin: 5% 0% 0% 25%;
+}
+.first-div h1{
+    text-align: center;
+    font-size: 45px;
+}
+.first-div input, .first-div select{
+    float: left;
+    width: 25%;
+    font-size: 30px;
+    margin: 0% 0% 4% 5%;
+    padding: 0.5% 0% 0.5% 0%;
     text-align: center;
 }
-
-.op-div {
+.first-div button{
     float: left;
-    width:80%;
-    background-color: aqua;
-    margin: 0% 0% 0% 10%;
+    width: 40%;
+    font-size: 30px;
+    margin: 0% 0% 5% 30%;
 }
-
-.op-div input{
-    float: left;
-    width:20%;
-    /* background-color: aqua; */
-    margin: 0% 2% 0% 10%;
-}
-
-button{
+.output-div{
     float: left;
     width: 30%;
-    text-align:center ;
-    margin: 2% 0% 4% 35%;
-}
-
-select{
-    float: left;
-    width:20%;
+    margin: 4% 0% 0% 35%;
+    /* border: 4px solid black; */
     text-align: center;
-    margin: 0% 5% 0% 7% ;
-    font-size: 18px;
+    font-size: 30px;
 }
