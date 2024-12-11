@@ -1,0 +1,32 @@
+.op-div h1{
+    text-align: center;
+}
+
+.op-div {
+    float: left;
+    width:80%;
+    background-color: aqua;
+    margin: 0% 0% 0% 10%;
+}
+
+.op-div input{
+    float: left;
+    width:20%;
+    /* background-color: aqua; */
+    margin: 0% 2% 0% 10%;
+}
+
+button{
+    float: left;
+    width: 30%;
+    text-align:center ;
+    margin: 2% 0% 4% 35%;
+}
+
+select{
+    float: left;
+    width:20%;
+    text-align: center;
+    margin: 0% 5% 0% 7% ;
+    font-size: 18px;
+}
